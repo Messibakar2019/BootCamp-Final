@@ -1,71 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7c953c6-e21e-473f-8b56-d35f929223e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/Amazon/AmazonHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/AmazonTestHomePage/AmazonTestHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/resources/Amazon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/target/classes/Amazon/AmazonHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/target/test-classes/Amazon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestHomePage/AmazonTestHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCampFInal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNN.com/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNN.com/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNN.com/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNN.com/src/main/java/CNN/CNNHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNN.com/src/test/java/TestCNNHomePage/TestCNNHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNN.com/src/test/resources/CNN.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna.com/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna.com/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna.com/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna.com/src/main/java/Cigna/CignaHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna.com/src/test/java/TestCignaHomePage/TestCignaHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cigna.com/src/test/resources/Cigna.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CitiBank/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CitiBank/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CitiBank/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CitiBank/src/main/java/CitiBank/CitiBankHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CitiBank/src/test/java/TestCitiBankHomePage/TestCitiBankHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CitiBank/src/test/resources/Citi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/report-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/Facebook/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestFacebookHomePage/TestFacebookHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook/src/test/resources/Amazon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentTestManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/reporting/TestLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/utility/ExcelReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7c953c6-e21e-473f-8b56-d35f929223e6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -92,7 +28,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/Facebook/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="45">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -172,8 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +154,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,6 +298,7 @@
       <workItem from="1561504224738" duration="365000" />
       <workItem from="1562191734197" duration="1541000" />
       <workItem from="1562193572404" duration="1059000" />
+      <workItem from="1562194705170" duration="464000" />
     </task>
     <servers />
   </component>
@@ -398,13 +335,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19587000" />
+    <option name="totallyTimeSpent" value="20051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="299" y="78" width="866" height="606" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610895" visible="true" weight="0.46601942" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49610895" visible="true" weight="0.47694173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -421,7 +357,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.318038" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45136186" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32879376" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -718,7 +654,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/Facebook/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="45">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
